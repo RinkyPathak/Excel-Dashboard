@@ -5,3 +5,5 @@
 •	Leveraged Excel tools such as Pivot Tables, Conditional Formatting.
 ## Dataset used:-
 <a href="https://github.com/RinkyPathak/Excel-Dashboard/blob/main/Excel%20project.xlsm">Dataset</a>
+## Dashboard image
+<a href= "">Image</a>
