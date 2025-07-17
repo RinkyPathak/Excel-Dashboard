@@ -12,3 +12,5 @@
 2. Who had the highest Target Achievement Percentage?
 3. Which region had the highest average sales across all days?
 4.List the Top 5 and Bottom 5 performers based on Target Hit %.
+## Dashboard
+<img width="1847" height="654" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/9342918c-d230-4466-b72f-b2205834128d" />
