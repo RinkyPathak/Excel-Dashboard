@@ -12,5 +12,4 @@
 2. Who had the highest Target Achievement Percentage?
 3. Which region had the highest average sales across all days?
 
-
- 4.List the Top 5 and Bottom 5 performers based on Target Hit %.
+4.List the Top 5 and Bottom 5 performers based on Target Hit %.
