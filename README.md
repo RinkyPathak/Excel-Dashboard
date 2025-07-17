@@ -6,4 +6,4 @@
 ## Dataset used:-
 <a href="https://github.com/RinkyPathak/Excel-Dashboard/blob/main/Excel%20project.xlsm">Dataset</a>
 ## Dashboard image
-<a href= "">Image</a>
+<a href= "https://github.com/RinkyPathak/Excel-Dashboard/blob/main/Dashboard_Screenshot.png">Image</a>
